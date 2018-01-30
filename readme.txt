@@ -1,6 +1,6 @@
 Data and script for extracting rate of gene gain/loss and pseudogenes from the branches of an ML tree.
 
-The script is designed with special parameters and inputs for the Extended Data 6 in the manuscript :
+The script is designed with special parameters and inputs for the Figure S2A and B in the manuscript :
 Title: Millennia of genomic stability within the invasive Para C Lineage of Salmonella enterica. 
 Authors: Zhemin Zhou, Inge Lundstrøm, Alicia Tran-Dien, Sebastián Duchêne, Nabil-Fareed Alikhan, 
          Martin J. Sergeant, Gemma Langridge, Anna K. Fotakis, Satheesh Nair, Hans K. Stenøien, 
