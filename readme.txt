@@ -1,11 +1,11 @@
-Supplementary Data 15. Data and script for extracting rate of gene gain/loss and pseudogenes from the branches of an ML tree.
+Data and script for extracting rate of gene gain/loss and pseudogenes from the branches of an ML tree.
 
 The script is designed with special parameters and inputs for the Extended Data 6 in the manuscript :
 Title: Millennia of genomic stability within the invasive Para C Lineage of Salmonella enterica. 
-Authors: Zhemin Zhou, Inge Lundstrøm, Alicia Tran-Dien, Sebastián Duchêne, Nabil-Fareed Alikhan, 
-         Martin J. Sergeant, Gemma Langridge, Anna K. Fotakis, Satheesh Nair, Hans K. Stenøien, 
+Authors: Zhemin Zhou, Inge LundstrÃ¸m, Alicia Tran-Dien, SebastiÃ¡n DuchÃªne, Nabil-Fareed Alikhan, 
+         Martin J. Sergeant, Gemma Langridge, Anna K. Fotakis, Satheesh Nair, Hans K. StenÃ¸ien, 
          Stian S. Hamre, Sherwood Casjens, Axel Christophersen, Christopher Quince, Nicholas R. Thomson, 
-         François-Xavier Weill, Simon Y. W. Ho, M. Thomas P. Gilbert, Mark Achtman
+         FranÃ§ois-Xavier Weill, Simon Y. W. Ho, M. Thomas P. Gilbert, Mark Achtman
 
 Copyright Zhemin Zhou, Mark Achtman (2017)
 This program is free software: you can redistribute it and/or modify it under
